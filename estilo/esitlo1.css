@@ -1,0 +1,31 @@
+div{
+    background-color: rgb(174, 206, 234);
+    margin: auto;
+}
+h1{
+    color:rgb(30, 30, 115);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.secundario{
+    background-color: rgb(255, 255, 255);
+}
+h3{
+    background-color: rgb(174, 206, 234);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(3, 3, 106);
+    text-align: center;
+    border: 2px solid rgb(3, 3, 106);
+    block-size: auto;
+}
+h3:hover{
+    color: red;
+    background-color: lightcoral;
+}
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
